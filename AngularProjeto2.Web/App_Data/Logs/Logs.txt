@@ -1,0 +1,319 @@
+DEBUG 2019-12-30 20:13:29,848 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-12-30 20:13:29,952 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-12-30 20:13:29,960 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Web.AngularProjeto2WebModule, AngularProjeto2.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2DataModule, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,980 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2CoreModule, AngularProjeto2.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2ApplicationModule, AngularProjeto2.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Api.AngularProjeto2WebApiModule, AngularProjeto2.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,984 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:29,988 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2019-12-30 20:13:31,168 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:13:31,168 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:13:31,172 [1    ] o.Configuration.LanguageManagementConfig - Converted AngularProjeto2 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:13:31,172 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:13:31,744 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularProjeto2.EntityFramework.AngularProjeto2DbContext, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:13:41,058 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-12-30 20:13:41,218 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-12-30 20:13:41,290 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-12-30 20:13:41,298 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularProjeto2
+DEBUG 2019-12-30 20:13:41,378 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-12-30 20:13:41,617 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-12-30 20:13:41,737 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2019-12-30 20:13:41,737 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.CreateUserDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UpdateUserDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UserDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Roles.Dto.PermissionDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.EditTenantDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.TenantDto
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantChangeViewModel
+DEBUG 2019-12-30 20:13:41,745 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2019-12-30 20:13:45,740 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2019-12-30 20:13:45,740 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2019-12-30 20:13:45,744 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2019-12-30 20:13:45,744 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2019-12-30 20:13:45,744 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2019-12-30 20:13:45,748 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+DEBUG 2019-12-30 20:27:01,829 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-12-30 20:27:01,842 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-12-30 20:27:01,850 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Web.AngularProjeto2WebModule, AngularProjeto2.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2DataModule, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2CoreModule, AngularProjeto2.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2ApplicationModule, AngularProjeto2.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Api.AngularProjeto2WebApiModule, AngularProjeto2.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:01,859 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2019-12-30 20:27:02,181 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:27:02,181 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:27:02,181 [1    ] o.Configuration.LanguageManagementConfig - Converted AngularProjeto2 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:27:02,181 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:27:02,614 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularProjeto2.EntityFramework.AngularProjeto2DbContext, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:27:06,980 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-12-30 20:27:07,110 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-12-30 20:27:07,205 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-12-30 20:27:07,230 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularProjeto2
+DEBUG 2019-12-30 20:27:07,282 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-12-30 20:27:07,672 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-12-30 20:27:07,779 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2019-12-30 20:27:07,780 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-12-30 20:27:07,787 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-12-30 20:27:07,788 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.CreateUserDto
+DEBUG 2019-12-30 20:27:07,788 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UpdateUserDto
+DEBUG 2019-12-30 20:27:07,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UserDto
+DEBUG 2019-12-30 20:27:07,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Roles.Dto.PermissionDto
+DEBUG 2019-12-30 20:27:07,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-12-30 20:27:07,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.EditTenantDto
+DEBUG 2019-12-30 20:27:07,789 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.TenantDto
+DEBUG 2019-12-30 20:27:07,790 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantChangeViewModel
+DEBUG 2019-12-30 20:27:07,790 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2019-12-30 20:27:12,194 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2019-12-30 20:27:12,195 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2019-12-30 20:27:12,196 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2019-12-30 20:27:12,198 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2019-12-30 20:27:12,199 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2019-12-30 20:27:12,200 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+ERROR 2019-12-30 20:27:22,102 [8    ] rProjeto2.Web.Controllers.HomeController - No language defined!
+Abp.AbpException: No language defined!
+   em Abp.Localization.MultiTenantLocalizationDictionaryProvider.GetDefaultDictionary()
+   em Abp.Localization.MultiTenantLocalizationDictionaryProvider.get_DefaultDictionary()
+   em Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetStringOrNull(String name, CultureInfo culture, Boolean tryDefaults)
+   em Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetString(String name)
+   em Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   em Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   em Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   em Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+   em System.Web.Mvc.ControllerActionInvoker.InvokeAuthorizationFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor)
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__0(AsyncCallback asyncCallback, Object asyncState)
+DEBUG 2019-12-30 20:35:29,574 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-12-30 20:35:29,587 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-12-30 20:35:29,596 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Web.AngularProjeto2WebModule, AngularProjeto2.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,598 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2DataModule, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,598 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,599 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2CoreModule, AngularProjeto2.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2ApplicationModule, AngularProjeto2.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Api.AngularProjeto2WebApiModule, AngularProjeto2.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,600 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,601 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,601 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,601 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,601 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:29,605 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2019-12-30 20:35:29,936 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:35:29,936 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:35:29,936 [1    ] o.Configuration.LanguageManagementConfig - Converted AngularProjeto2 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:35:29,936 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 20:35:30,388 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularProjeto2.EntityFramework.AngularProjeto2DbContext, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 20:35:33,467 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-12-30 20:35:33,544 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-12-30 20:35:33,571 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-12-30 20:35:33,580 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularProjeto2
+DEBUG 2019-12-30 20:35:33,590 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-12-30 20:35:33,797 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-12-30 20:35:33,866 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2019-12-30 20:35:33,866 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-12-30 20:35:33,873 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-12-30 20:35:33,874 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.CreateUserDto
+DEBUG 2019-12-30 20:35:33,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UpdateUserDto
+DEBUG 2019-12-30 20:35:33,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UserDto
+DEBUG 2019-12-30 20:35:33,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Roles.Dto.PermissionDto
+DEBUG 2019-12-30 20:35:33,876 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-12-30 20:35:33,876 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.EditTenantDto
+DEBUG 2019-12-30 20:35:33,876 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.TenantDto
+DEBUG 2019-12-30 20:35:33,876 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantChangeViewModel
+DEBUG 2019-12-30 20:35:33,876 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2019-12-30 20:35:38,172 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2019-12-30 20:35:38,173 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2019-12-30 20:35:38,175 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2019-12-30 20:35:38,176 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2019-12-30 20:35:38,178 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2019-12-30 20:35:38,179 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+ERROR 2019-12-30 20:35:44,239 [9    ] rProjeto2.Web.Controllers.HomeController - No language defined!
+Abp.AbpException: No language defined!
+   em Abp.Localization.MultiTenantLocalizationDictionaryProvider.GetDefaultDictionary()
+   em Abp.Localization.MultiTenantLocalizationDictionaryProvider.get_DefaultDictionary()
+   em Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetStringOrNull(String name, CultureInfo culture, Boolean tryDefaults)
+   em Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource.GetString(String name)
+   em Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   em Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   em Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   em Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+   em System.Web.Mvc.ControllerActionInvoker.InvokeAuthorizationFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor)
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__0(AsyncCallback asyncCallback, Object asyncState)
+DEBUG 2019-12-30 21:32:34,443 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-12-30 21:32:35,205 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2019-12-30 21:32:35,214 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Web.AngularProjeto2WebModule, AngularProjeto2.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,216 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2DataModule, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,216 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,216 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,216 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,216 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,217 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,217 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,217 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2CoreModule, AngularProjeto2.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,217 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2ApplicationModule, AngularProjeto2.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,218 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,218 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Api.AngularProjeto2WebApiModule, AngularProjeto2.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,218 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,218 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,218 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,218 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,219 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:35,222 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2019-12-30 21:32:36,092 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 21:32:36,092 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 21:32:36,092 [1    ] o.Configuration.LanguageManagementConfig - Converted AngularProjeto2 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 21:32:36,092 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-12-30 21:32:36,638 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularProjeto2.EntityFramework.AngularProjeto2DbContext, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:32:38,349 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-12-30 21:32:38,441 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-12-30 21:32:38,473 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-12-30 21:32:38,486 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularProjeto2
+DEBUG 2019-12-30 21:32:38,496 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-12-30 21:32:38,726 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2019-12-30 21:32:38,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2019-12-30 21:32:38,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-12-30 21:32:38,896 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-12-30 21:32:38,897 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.CreateUserDto
+DEBUG 2019-12-30 21:32:38,898 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UpdateUserDto
+DEBUG 2019-12-30 21:32:38,898 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UserDto
+DEBUG 2019-12-30 21:32:38,898 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Roles.Dto.PermissionDto
+DEBUG 2019-12-30 21:32:38,899 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-12-30 21:32:38,899 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.EditTenantDto
+DEBUG 2019-12-30 21:32:38,899 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.TenantDto
+DEBUG 2019-12-30 21:32:38,899 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantChangeViewModel
+DEBUG 2019-12-30 21:32:38,899 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2019-12-30 21:32:43,105 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2019-12-30 21:32:43,107 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2019-12-30 21:32:43,108 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2019-12-30 21:32:43,109 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2019-12-30 21:32:43,110 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2019-12-30 21:32:43,111 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2019-12-30 21:32:51,550 [10   ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Usuário atual não fez o login no aplicativo!
+   em Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   em Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   em Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   em Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Usuário atual não fez o login no aplicativo!
+   em Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   em Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   em Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   em Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+WARN  2019-12-30 21:33:23,358 [10   ] ojeto2.Web.Controllers.AccountController - Falha no login!
+Abp.UI.UserFriendlyException: Falha no login!
+   em AngularProjeto2.Web.Controllers.AccountController.<GetLoginResultAsync>d__14.MoveNext() na C:\BAK\AngularProjeto2\5.1.0\src\AngularProjeto2.Web\Controllers\AccountController.cs:linha 136
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   em AngularProjeto2.Web.Controllers.AccountController.<Login>d__13.MoveNext() na C:\BAK\AngularProjeto2\5.1.0\src\AngularProjeto2.Web\Controllers\AccountController.cs:linha 106
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em System.Web.Mvc.Async.TaskAsyncActionDescriptor.EndExecute(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass8_0.<BeginInvokeAsynchronousActionMethod>b__1(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethod(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_0.<InvokeActionMethodFilterAsynchronouslyRecursive>b__0()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.AsyncInvocationWithFilters.<>c__DisplayClass11_2.<InvokeActionMethodFilterAsynchronouslyRecursive>b__2()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass7_0.<BeginInvokeActionMethodWithFilters>b__1(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.CallEndDelegate(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResultBase`1.End()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeActionMethodWithFilters(IAsyncResult asyncResult)
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_6.<BeginInvokeAction>b__4()
+   em System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass3_1.<BeginInvokeAction>b__1(IAsyncResult asyncResult)
+DEBUG 2019-12-30 21:39:03,806 [38   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"45ee9699-47a5-47c0-915c-fc5c73d32346","IpAddress":"192.168.0.109","TenantId":null,"UserId":1,"ConnectTime":"2019-12-30T21:39:03.7978533-03:00","Properties":{}}
+DEBUG 2019-12-30 21:39:03,866 [33   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 45ee9699-47a5-47c0-915c-fc5c73d32346
+WARN  2019-12-30 21:39:28,578 [47   ] naries.DictionaryBasedLocalizationSource - Can not find 'Refresh' in localization source 'AngularProjeto2'!
+DEBUG 2020-01-15 21:34:38,511 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-01-15 21:34:38,592 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2020-01-15 21:34:38,630 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Web.AngularProjeto2WebModule, AngularProjeto2.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,648 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2DataModule, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2CoreModule, AngularProjeto2.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2ApplicationModule, AngularProjeto2.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Api.AngularProjeto2WebApiModule, AngularProjeto2.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:38,656 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2020-01-15 21:34:39,161 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-01-15 21:34:39,161 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-01-15 21:34:39,161 [1    ] o.Configuration.LanguageManagementConfig - Converted AngularProjeto2 (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-01-15 21:34:39,161 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-01-15 21:34:39,623 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularProjeto2.EntityFramework.AngularProjeto2DbContext, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-01-15 21:34:44,200 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-01-15 21:34:44,427 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-01-15 21:34:44,490 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-01-15 21:34:44,516 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularProjeto2
+DEBUG 2020-01-15 21:34:44,533 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-01-15 21:34:44,756 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-01-15 21:34:44,866 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2020-01-15 21:34:44,866 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-01-15 21:34:44,874 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-01-15 21:34:44,874 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.CreateUserDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UpdateUserDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Users.Dto.UserDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Roles.Dto.PermissionDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.EditTenantDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.MultiTenancy.Dto.TenantDto
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantChangeViewModel
+DEBUG 2020-01-15 21:34:44,875 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - AngularProjeto2.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2020-01-15 21:34:48,813 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2020-01-15 21:34:48,814 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2020-01-15 21:34:48,815 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2020-01-15 21:34:48,816 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2020-01-15 21:34:48,817 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2020-01-15 21:34:48,818 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'AngularProjeto2.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2020-01-15 21:34:56,859 [9    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Usuário atual não fez o login no aplicativo!
+   em Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   em Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   em Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   em Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Usuário atual não fez o login no aplicativo!
+   em Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   em Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   em Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   em Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)

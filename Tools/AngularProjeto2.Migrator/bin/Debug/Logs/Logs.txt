@@ -1,0 +1,25 @@
+DEBUG 2019-12-30 21:31:11,062 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-12-30 21:31:11,606 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2019-12-30 21:31:11,611 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.Migrator.AngularProjeto2MigratorModule, AngularProjeto2.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2DataModule, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,649 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,650 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,651 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: AngularProjeto2.AngularProjeto2CoreModule, AngularProjeto2.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:11,654 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2019-12-30 21:31:12,983 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: AngularProjeto2.EntityFramework.AngularProjeto2DbContext, AngularProjeto2.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-12-30 21:31:13,511 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2019-12-30 21:31:13,584 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-12-30 21:31:13,643 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-12-30 21:31:13,649 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AngularProjeto2
+INFO  2019-12-30 21:31:13,712 [1    ] AngularProjeto2.Migrator.Log             - Host database: Default
+INFO  2019-12-30 21:31:13,712 [1    ] AngularProjeto2.Migrator.Log             - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2019-12-30 21:31:21,349 [1    ] AngularProjeto2.Migrator.Log             - HOST database migration started...
+INFO  2019-12-30 21:31:30,016 [1    ] AngularProjeto2.Migrator.Log             - HOST database migration completed.
+INFO  2019-12-30 21:31:30,016 [1    ] AngularProjeto2.Migrator.Log             - --------------------------------------------------------
+INFO  2019-12-30 21:31:30,035 [1    ] AngularProjeto2.Migrator.Log             - All databases have been migrated.
+DEBUG 2019-12-30 21:31:37,203 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2019-12-30 21:31:37,204 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
